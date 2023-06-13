@@ -10,4 +10,4 @@
 ## Sign Up Page For Mobile Screen Width < 768 px
 
 
-<img src="./screenshot/Screenshot3.png"  />
+<img src="./screenshot/Screenshot2.png"  />
